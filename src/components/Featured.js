@@ -3,7 +3,7 @@ import React, {useState,useEffect }from 'react'
 import axios from 'axios'
 import {FiArrowUpRight, FiArrowDown} from 'react-icons/fi'
 import './Featured.css'
-
+import @babel/plugin-proposal-private-property-in-object
 
 
 const FeaturedComponent= () => {
